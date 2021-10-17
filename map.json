@@ -36,7 +36,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https:\/\/www.gouttedevie.com\/wa\/adverts\/"
+                       "value":"https://www.gouttedevie.com/wa/adverts/"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -59,7 +59,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https:\/\/www.gouttedevie.com\/wa\/community\/"
+                       "value":"https://www.gouttedevie.com/wa/community/"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -82,7 +82,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https:\/\/www.gouttedevie.com\/wa\/"
+                       "value":"https://www.gouttedevie.com/wa/"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -105,7 +105,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https:\/\/openagenda.com\/ville-de-lille?lang=fr"
+                       "value":"https://openagenda.com/ville-de-lille?lang=fr"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -200,7 +200,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https:\/\/www.gouttedevie.com\/wa\/tuto"
+                       "value":"https://www.gouttedevie.com/wa/tuto"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -294,7 +294,7 @@
               {
                "name":"mapLink",
                "type":"string",
-               "value":"https:\/\/github.com\/ZzZiiiOoO\/federmap\/blob\/master\/map.json"
+               "value":"https://github.com/ZzZiiiOoO/federmap/blob/master/map.json"
               }, 
               {
                "name":"mapName",
@@ -313,7 +313,7 @@
               {
                "columns":10,
                "firstgid":1,
-               "image":"src\/assets\/tileset5_export.png",
+               "image":"src/assets/tileset5_export.png",
                "imageheight":320,
                "imagewidth":320,
                "margin":0,
@@ -322,7 +322,7 @@
                       {
                        "name":"tilesetCopyright",
                        "type":"string",
-                       "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                       "value":"\u00a9 2021 WorkAdventure <https://workadventu.re/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
                       }],
                "spacing":0,
                "tilecount":100,
@@ -332,7 +332,7 @@
               {
                "columns":10,
                "firstgid":101,
-               "image":"src\/assets\/tileset6_export.png",
+               "image":"src/assets/tileset6_export.png",
                "imageheight":320,
                "imagewidth":320,
                "margin":0,
@@ -341,7 +341,7 @@
                       {
                        "name":"tilesetCopyright",
                        "type":"string",
-                       "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                       "value":"\u00a9 2021 WorkAdventure <https://workadventu.re/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
                       }],
                "spacing":0,
                "tilecount":100,
@@ -351,7 +351,7 @@
               {
                "columns":11,
                "firstgid":201,
-               "image":"src\/assets\/tileset1.png",
+               "image":"src/assets/tileset1.png",
                "imageheight":352,
                "imagewidth":352,
                "margin":0,
@@ -360,7 +360,7 @@
                       {
                        "name":"tilesetCopyright",
                        "type":"string",
-                       "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                       "value":"\u00a9 2021 WorkAdventure <https://workadventu.re/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
                       }],
                "spacing":0,
                "tilecount":121,
@@ -370,7 +370,7 @@
               {
                "columns":11,
                "firstgid":322,
-               "image":"src\/assets\/tileset1-repositioning.png",
+               "image":"src/assets/tileset1-repositioning.png",
                "imageheight":352,
                "imagewidth":352,
                "margin":0,
@@ -379,7 +379,7 @@
                       {
                        "name":"tilesetCopyright",
                        "type":"string",
-                       "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                       "value":"\u00a9 2021 WorkAdventure <https://workadventu.re/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
                       }],
                "spacing":0,
                "tilecount":121,
@@ -389,7 +389,7 @@
               {
                "columns":6,
                "firstgid":443,
-               "image":"src\/assets\/Special_Zones.png",
+               "image":"src/assets/Special_Zones.png",
                "imageheight":64,
                "imagewidth":192,
                "margin":0,
@@ -398,7 +398,7 @@
                       {
                        "name":"tilesetCopyright",
                        "type":"string",
-                       "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                       "value":"\u00a9 2021 WorkAdventure <https://workadventu.re/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
                       }],
                "spacing":0,
                "tilecount":12,
@@ -418,7 +418,7 @@
               {
                "columns":8,
                "firstgid":455,
-               "image":"src\/assets\/SampleMap\/[A]Grass_pipo.png",
+               "image":"src/assets/SampleMap/[A]Grass_pipo.png",
                "imageheight":2112,
                "imagewidth":256,
                "margin":0,
@@ -431,7 +431,7 @@
               {
                "columns":12,
                "firstgid":983,
-               "image":"src\/assets\/Unorganized Parts\/addwork.png",
+               "image":"src/assets/Unorganized Parts/addwork.png",
                "imageheight":2048,
                "imagewidth":384,
                "margin":0,
@@ -444,7 +444,7 @@
               {
                "columns":32,
                "firstgid":1751,
-               "image":"src\/assets\/Atlas2\/obj_misk_atlas.png",
+               "image":"src/assets/Atlas2/obj_misk_atlas.png",
                "imageheight":1024,
                "imagewidth":1024,
                "margin":0,
@@ -457,7 +457,7 @@
               {
                "columns":32,
                "firstgid":2775,
-               "image":"src\/assets\/Atlas2\/build_atlas.png",
+               "image":"src/assets/Atlas2/build_atlas.png",
                "imageheight":1024,
                "imagewidth":1024,
                "margin":0,
@@ -470,7 +470,7 @@
               {
                "columns":32,
                "firstgid":3799,
-               "image":"src\/assets\/lpc-victorian-buildings\/victorian-accessories.png",
+               "image":"src/assets/lpc-victorian-buildings/victorian-accessories.png",
                "imageheight":2560,
                "imagewidth":1024,
                "margin":0,
@@ -483,7 +483,7 @@
               {
                "columns":32,
                "firstgid":6359,
-               "image":"src\/assets\/lpc-victorian-buildings\/victorian-mansion.png",
+               "image":"src/assets/lpc-victorian-buildings/victorian-mansion.png",
                "imageheight":2048,
                "imagewidth":1024,
                "margin":0,
@@ -496,7 +496,7 @@
               {
                "columns":32,
                "firstgid":8407,
-               "image":"src\/assets\/lpc-victorian-buildings\/victorian-tenement.png",
+               "image":"src/assets/lpc-victorian-buildings/victorian-tenement.png",
                "imageheight":3072,
                "imagewidth":1024,
                "margin":0,
@@ -509,7 +509,7 @@
               {
                "columns":32,
                "firstgid":11479,
-               "image":"src\/assets\/lpc-victorian-buildings\/victorian-windows-doors.png",
+               "image":"src/assets/lpc-victorian-buildings/victorian-windows-doors.png",
                "imageheight":5120,
                "imagewidth":1024,
                "margin":0,
